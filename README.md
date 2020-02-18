@@ -1,2 +1,5 @@
-# capstone
-capstone 4th yr
+# afs-office-mgmt-sys
+AFS Office Management System
+
+testing!
+asdas
